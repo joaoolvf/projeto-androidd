@@ -131,6 +131,8 @@ footer {
     text-align: center;
     color: #fff;
     font-style: italic;
+    max-width: 100%;
+    min-width: 400px;
 
 }
 aside {
