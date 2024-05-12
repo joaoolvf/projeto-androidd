@@ -26,6 +26,8 @@ main {
 
 header {
     padding: 15px;
+    max-width: 100%;
+    min-width: 400px;
     text-align: center;
     background-image: linear-gradient(to left top, #0b530b, #207e20);
     color: #fff;
